@@ -2,6 +2,10 @@
 
 ![NVIDIA 5090 GPU - The most powerful GPU for AI and gaming](public/images/nvidia-5090.jpg)
 
+## About This Project
+
+This project was created by Tony Kipkemboi as a demonstration during his guest speaking engagement at Harvard Kennedy School. As the invited speaker, Tony built the entire application during a lunch break to showcase how AI can accelerate app development. It serves as an educational example of rapid prototyping and is not intended for production use.
+
 A web application that monitors and tracks the prices of NVIDIA 5090 GPUs across multiple online retailers.
 
 ## Features
@@ -56,9 +60,11 @@ The application uses web scraping to collect pricing information from various re
 
 ## Notes
 
-- The web scraper is configured for demonstration purposes and may require adjustments based on changes to retailer websites
-- This application is for personal use only. Be sure to respect the terms of service of the websites you are scraping.
-- This application is configured to track NVIDIA RTX 5090 GPUs
+- **Demo Purpose**: This application was built by Tony Kipkemboi as a rapid prototype during a lunch break while serving as a guest speaker at Harvard Kennedy School. It demonstrates AI-assisted development capabilities and showcases how quickly functional applications can be created with modern tools.
+- The web scraper is configured for demonstration purposes and may require adjustments based on changes to retailer websites.
+- This application is for educational purposes only. Be sure to respect the terms of service of the websites you are scraping.
+- The NVIDIA RTX 5090 is a fictional GPU used for this demo (as of 2024, the latest consumer GPU is the 4090 series).
+- This project serves as an example of what can be accomplished in a short time frame with AI assistance.
 
 ## License
 
