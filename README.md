@@ -1,6 +1,6 @@
 # NVIDIA 5090 GPU Price Tracker
 
-![NVIDIA 5090 GPU - The most powerful GPU for AI and gaming](public/images/nvidia-5090.jpg)
+![NVIDIA 5090 GPU - The most powerful GPU for AI and gaming](https://github.com/tonykipkemboi/5090-gpu-tracker/raw/main/public/images/nvidia-5090.jpg)
 
 ## About This Project
 
