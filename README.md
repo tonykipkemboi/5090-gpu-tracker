@@ -1,6 +1,6 @@
 # NVIDIA 5090 GPU Price Tracker
 
-![NVIDIA 5090 GPU](public/images/nvidia-5090.jpg)
+![NVIDIA 5090 GPU - The most powerful GPU for AI and gaming](public/images/nvidia-5090.jpg)
 
 A web application that monitors and tracks the prices of NVIDIA 5090 GPUs across multiple online retailers.
 
